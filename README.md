@@ -41,7 +41,7 @@ Proyek ini mendemonstrasikan integrasi API dengan database SQL menggunakan PHP d
 
 ## Kredit
 - UI Design: ShadCN UI
-- Inspirasi: @NaviesNox
+- Inspirasi: [@NaviesNox](https://github.com/NaviesNox)
 
 ## Lisensi
 Lisensi MIT © 2025 KOU
