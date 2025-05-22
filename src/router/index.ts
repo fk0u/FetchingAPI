@@ -3,7 +3,7 @@ import { RouteRecordRaw } from 'vue-router';
 import HomePage from '../views/HomePage.vue'
 
 
-const routes: Array<RouteRecordRaw> = [s
+const routes: Array<RouteRecordRaw> = [
   {
     path: '/',
     redirect: '/home'
