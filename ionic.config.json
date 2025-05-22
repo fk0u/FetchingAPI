@@ -1,0 +1,7 @@
+{
+  "name": "FetchJson",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
