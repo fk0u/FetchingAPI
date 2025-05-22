@@ -313,8 +313,8 @@
               >
                 <option value="">Select role</option>
                 <option value="admin">Admin</option>
-                <option value="librarian">Librarian</option>
-                <option value="user">User</option>
+                <option value="petugas">Petugas</option>
+                <option value="student">Siswa</option>
               </select>
               <span class="error-message" v-if="formErrors.role">{{ formErrors.role }}</span>
             </div>
